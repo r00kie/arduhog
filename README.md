@@ -8,7 +8,7 @@ Project requires [this library](https://git.io/vgGM2) for working. You have to i
 
 You can also check [DCS-Bios](http://dcs-bios.a10c.de/), but it have a different approach, it's requires installing some additional scripts in DCS World and it's works only with A10C Cocpit. 
 
-## Project Structure Description ## 
+## Project Structure Description
 
 ### Hardware ###
 
@@ -24,7 +24,7 @@ You can also check [DCS-Bios](http://dcs-bios.a10c.de/), but it have a different
   * src/arduhog/* - source code for arduino controller;
   * src/arduhog/keymappings.ods - spreedsheet containing mapping from eagle/ahcp.sch to buttons in code and shortcuts in game.  
 
-## Screenshots, images and movies  ## 
+## Screenshots, images and movies  
   
   * [Image gallery of prototype](https://imgur.com/a/71ZCE)
   * [Working prototype](https://vid.me/YhLZ)
